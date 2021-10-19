@@ -1,0 +1,12 @@
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator\bin\Debug\net5.0\InfectionSimulator.deps.json
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator\bin\Debug\net5.0\InfectionSimulator.dll
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator\bin\Debug\net5.0\ref\InfectionSimulator.dll
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator\bin\Debug\net5.0\InfectionSimulator.pdb
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator\obj\Debug\net5.0\InfectionSimulator.csproj.AssemblyReference.cache
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator\obj\Debug\net5.0\InfectionSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator\obj\Debug\net5.0\InfectionSimulator.AssemblyInfoInputs.cache
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator\obj\Debug\net5.0\InfectionSimulator.AssemblyInfo.cs
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator\obj\Debug\net5.0\InfectionSimulator.csproj.CoreCompileInputs.cache
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator\obj\Debug\net5.0\InfectionSimulator.dll
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator\obj\Debug\net5.0\ref\InfectionSimulator.dll
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator\obj\Debug\net5.0\InfectionSimulator.pdb

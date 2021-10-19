@@ -1253,6 +1253,26 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "InfectionSimulator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/InfectionSimulator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InfectionSimulator.dll": {}
+        }
+      },
+      "InfectionSimulator.Main/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/InfectionSimulator.Main.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InfectionSimulator.Main.dll": {}
+        }
       }
     }
   },
@@ -4942,10 +4962,22 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "InfectionSimulator/1.0.0": {
+      "type": "project",
+      "path": "../InfectionSimulator/InfectionSimulator.csproj",
+      "msbuildProject": "../InfectionSimulator/InfectionSimulator.csproj"
+    },
+    "InfectionSimulator.Main/1.0.0": {
+      "type": "project",
+      "path": "../InfectionSimulator.Main/InfectionSimulator.Main.csproj",
+      "msbuildProject": "../InfectionSimulator.Main/InfectionSimulator.Main.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "InfectionSimulator >= 1.0.0",
+      "InfectionSimulator.Main >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
       "NUnit >= 3.13.1",
       "NUnit3TestAdapter >= 3.17.0",
@@ -4976,7 +5008,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\JadedRain\\Desktop\\Programming\\Programming stuff\\C#\\InfectionSimulator\\InfectionSimulator.Main\\InfectionSimulator.Main.csproj": {
+              "projectPath": "C:\\Users\\JadedRain\\Desktop\\Programming\\Programming stuff\\C#\\InfectionSimulator\\InfectionSimulator.Main\\InfectionSimulator.Main.csproj"
+            },
+            "C:\\Users\\JadedRain\\Desktop\\Programming\\Programming stuff\\C#\\InfectionSimulator\\InfectionSimulator\\InfectionSimulator.csproj": {
+              "projectPath": "C:\\Users\\JadedRain\\Desktop\\Programming\\Programming stuff\\C#\\InfectionSimulator\\InfectionSimulator\\InfectionSimulator.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

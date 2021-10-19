@@ -1,0 +1,16 @@
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator.Main\bin\Debug\net5.0\InfectionSimulator.Main.exe
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator.Main\bin\Debug\net5.0\InfectionSimulator.Main.deps.json
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator.Main\bin\Debug\net5.0\InfectionSimulator.Main.runtimeconfig.json
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator.Main\bin\Debug\net5.0\InfectionSimulator.Main.runtimeconfig.dev.json
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator.Main\bin\Debug\net5.0\InfectionSimulator.Main.dll
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator.Main\bin\Debug\net5.0\ref\InfectionSimulator.Main.dll
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator.Main\bin\Debug\net5.0\InfectionSimulator.Main.pdb
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator.Main\obj\Debug\net5.0\InfectionSimulator.Main.csproj.AssemblyReference.cache
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator.Main\obj\Debug\net5.0\InfectionSimulator.Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator.Main\obj\Debug\net5.0\InfectionSimulator.Main.AssemblyInfoInputs.cache
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator.Main\obj\Debug\net5.0\InfectionSimulator.Main.AssemblyInfo.cs
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator.Main\obj\Debug\net5.0\InfectionSimulator.Main.csproj.CoreCompileInputs.cache
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator.Main\obj\Debug\net5.0\InfectionSimulator.Main.dll
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator.Main\obj\Debug\net5.0\ref\InfectionSimulator.Main.dll
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator.Main\obj\Debug\net5.0\InfectionSimulator.Main.pdb
+C:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator.Main\obj\Debug\net5.0\InfectionSimulator.Main.genruntimeconfig.cache
