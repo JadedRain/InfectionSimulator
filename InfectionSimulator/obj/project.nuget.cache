@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YiZEbDN21XuGi6ubaFQ+sJ//iCmZRJ5RJ/IQmhHS6jsza6IwercsekK9iwdqkQ59JCagWBMpxh/HYY+rB/4DcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JadedRain\\Desktop\\Programming\\Programming stuff\\C#\\InfectionSimulator\\InfectionSimulator\\InfectionSimulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JadedRain\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JadedRain\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
