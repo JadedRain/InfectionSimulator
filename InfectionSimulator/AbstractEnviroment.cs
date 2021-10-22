@@ -17,6 +17,8 @@ namespace InfectionSimulator.AbstractEnviroment
     // This class represents what each enviroment should contain
     public abstract class Enviroment : IEnviroment
     {
+        // The number of total created enviroments
+        static int NumEnviroments { get; set; }
         // A list of current people in the enviromenment
         private List<Person> CurrentPeople { get; set; }
         // A list of locations the enviroment contains

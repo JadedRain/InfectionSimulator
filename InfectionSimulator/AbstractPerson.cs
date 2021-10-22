@@ -19,6 +19,8 @@ namespace InfectionSimulator.AbstractPerson
     // An abstract class that determines what each person should contain
     public abstract class Person : IPerson
     {
+        // The number of total created persons
+        static int NumPeople { get; set; }
         // Tracks the number of days a person has been alive
         private int DaysAlive { get; set; }
         // Tracs the current status of a person
