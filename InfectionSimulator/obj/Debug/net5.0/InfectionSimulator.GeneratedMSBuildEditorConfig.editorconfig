@@ -7,4 +7,8 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = InfectionSimulator
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\JadedRain\Desktop\Programming\Programming stuff\C#\InfectionSimulator\InfectionSimulator\
+=======
+build_property.ProjectDir = c:\Users\ninja\Desktop\Programs\C#\BigProjects\FinalProject\InfectionSimulator\InfectionSimulator\
+>>>>>>> 44dfde83f9e74ae8af0e5343afd19d33458ce414
