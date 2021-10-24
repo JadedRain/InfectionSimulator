@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ninja\\.nuget\\packages\\": {}
+    "C:\\Users\\JadedRain\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ninja\\Desktop\\Programs\\C#\\BigProjects\\FinalProject\\InfectionSimulator\\InfectionSimulator.Main\\InfectionSimulator.Main.csproj",
+      "projectUniqueName": "C:\\Users\\JadedRain\\Desktop\\Programming\\Programming stuff\\C#\\InfectionSimulator\\InfectionSimulator.Main\\InfectionSimulator.Main.csproj",
       "projectName": "InfectionSimulator.Main",
-      "projectPath": "C:\\Users\\ninja\\Desktop\\Programs\\C#\\BigProjects\\FinalProject\\InfectionSimulator\\InfectionSimulator.Main\\InfectionSimulator.Main.csproj",
-      "packagesPath": "C:\\Users\\ninja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ninja\\Desktop\\Programs\\C#\\BigProjects\\FinalProject\\InfectionSimulator\\InfectionSimulator.Main\\obj\\",
+      "projectPath": "C:\\Users\\JadedRain\\Desktop\\Programming\\Programming stuff\\C#\\InfectionSimulator\\InfectionSimulator.Main\\InfectionSimulator.Main.csproj",
+      "packagesPath": "C:\\Users\\JadedRain\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JadedRain\\Desktop\\Programming\\Programming stuff\\C#\\InfectionSimulator\\InfectionSimulator.Main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ninja\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\JadedRain\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

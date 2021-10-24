@@ -14,15 +14,26 @@ namespace InfectionSimulator.AbstractEnviroment
         Park,
         Resturaunt
     }
+
+    public struct Cell
+    {
+        int XPos;
+        int yPos;
+    }
     // This class represents what each enviroment should contain
     public abstract class Enviroment : IEnviroment
     {
+        public Enviroment(List<Person> people, Location[] locations)
+        {
+            CurrentPeople = people;
+            PossibleLocations = locations;
+        }
         // The number of total created enviroments
         static int NumEnviroments { get; set; }
         // A list of current people in the enviromenment
-        private List<Person> CurrentPeople { get; set; }
+        public List<Person> CurrentPeople { get; }
         // A list of locations the enviroment contains
-        private List<Location> PossibleLocations { get; set; }
+        public Location[] PossibleLocations { get; }
 
 
         // Triggers events that start at the begining of the day
